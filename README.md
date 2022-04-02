@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kmartinez24
-- 👀 I’m interested in coding and games
+- 👀 I’m interested in coding and blockchain
 - 🌱 I’m currently learning AI and BigData
 - 📫 How to reach me kalimartinezr24@gmail.com
 
